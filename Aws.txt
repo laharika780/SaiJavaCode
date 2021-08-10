@@ -7,22 +7,10 @@ Types of certifications i8n AWS
 4. Speciality( network, ML. Security, data analytics, data base,...)
 
 **************************************************
-29.06.2021
+ this is lahari 
+developer
 
-NACL(Network Access control list) - Subnet Firewall
-* To specify what traffic is allowed or DENIED in a subnet
-* All instances in the subnet are automatically protected
-* Stateless firewall - you need to allow inbound and outbound traffic
-* Rules are evaluated in numeric order - lowest numbered rule that matches traffic decides the out come
 
-Private Ips are easy to communicate inside the vpcs
-public ip required to send or receive request from the internet
-public ip if i stop & restart a ec2-instanance public ip will go back to amazon pool ip's 
-then it will assign new public ip address from amazon pool
-If i create a Elastic ip (Static ip )
- if i detach to a different instanance in the same region in your account
- Redirect traffic to the new instanance
- 
- -------------
- how to ping to personal pc
- create a Ec2 instanance SG group Open 1.ICMP 
+
+how to ping to personal pc
+
